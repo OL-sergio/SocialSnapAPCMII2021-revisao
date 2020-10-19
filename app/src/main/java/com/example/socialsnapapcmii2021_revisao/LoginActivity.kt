@@ -1,0 +1,3 @@
+package com.example.socialsnapapcmii2021_revisao
+
+class LoginActivity
