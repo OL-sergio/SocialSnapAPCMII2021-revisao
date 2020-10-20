@@ -1,3 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android"/>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_casa"
+        android:icon="@drawable/ic_home_black__24dp"
+        android:title="home"
+
+        />
+
+    <item
+        android:id="@+id/navigation_dashbord"
+        android:icon="@drawable/ic_home_black__24dp"
+        android:title="Dashbord"
+
+        />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_home_black__24dp"
+        android:title="Notifications"
+
+        />
+
+</menu>
